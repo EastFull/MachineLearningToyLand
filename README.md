@@ -1,3 +1,3 @@
-# My fast.ai Lab
+# My Machine Learning Toy Land
 
-This repository consits of my toy projects using `fast.ai`.
+This repository consits of my machine learning toy projects.
